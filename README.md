@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ayush Ashokan! <br/>
 <a href="https://github.com/AyushAshokan">Supply Chain Professional</a>, 
-<a href="https://www.linkedin.com/in/AyushAshokan">Logistics Analyst</a>, 
-<a href="mailto:Ayushashokancanada@gmail.com">Data & Process Optimizer</a></h1>
+<a href="https://www.linkedin.com/in/AyushAshokan">Procurement Specialist</a>, 
+<a href="mailto:Ayushashokancanada@gmail.com">and AI Enthusiast</a></h1>
 
 <h2>📦 Supply Chain & Logistics Projects:</h2>
 
